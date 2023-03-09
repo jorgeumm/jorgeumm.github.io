@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My CV</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1>My Name</h1>
+        <p>Address | Phone Number | Email Address</p>
+      </div>
+      <div class="content">
+        <h2>Summary</h2>
+        <p>Write a brief summary about yourself and your career goals.</p>
+        <h2>Education</h2>
+        <ul>
+          <li>University Name - Degree, Major (Graduation Date)</li>
+        </ul>
+        <h2>Work Experience</h2>
+        <ul>
+          <li>Company Name - Job Title (Start Date - End Date)</li>
+          <li>Responsibility 1</li>
+          <li>Responsibility 2</li>
+        </ul>
+        <h2>Skills</h2>
+        <ul>
